@@ -1,4 +1,4 @@
-const CACHE_NAME = 'memoria-dre-v9';
+const CACHE_NAME = 'memoria-dre-v10';
 const ASSETS = [
   './',
   './index.html',
